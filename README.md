@@ -1,2 +1,2 @@
-# Clock-Project
+# iClock-Project
 Clock Project
